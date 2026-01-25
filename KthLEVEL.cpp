@@ -65,6 +65,17 @@ Node *leveltree(Node *root)
         }
     }
 }
+void klevelusingrec(Node* root,int l,int k)
+{
+    if(root==NULL)
+    {return;}
+    if(l==k)
+    {
+        cout<<root->data<<",";
+    }
+    klevelusingrec(root->left,l+1,k);
+    klevelusingrec(root->right,l+1,k);
+}
 void Kthlevel(Node* root,int k)
 {  queue<Node*> q;    //Level,node
    int l=1;
@@ -100,4 +111,6 @@ int main()
     leveltree(root);
     cout<<endl;
     Kthlevel(root,2);
+    cout<<endl;
+    klevelusingrec(root,1,3);
 }
