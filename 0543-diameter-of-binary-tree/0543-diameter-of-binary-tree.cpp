@@ -32,7 +32,6 @@ public:
         pair<int,int> rig=diameter(root->right);
         int cd=lef.second+rig.second;
         int md=max({lef.first,rig.first,cd});
-        int fh=max(lef.second,rig.second);
         return make_pair(md,height(root));
     }
     int diameterOfBinaryTree(TreeNode* root) {
