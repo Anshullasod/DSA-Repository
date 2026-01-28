@@ -24,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
