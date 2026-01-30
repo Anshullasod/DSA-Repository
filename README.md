@@ -63,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Anshullasod/DSA-Repository/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0113-path-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Anshullasod/DSA-Repository/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
