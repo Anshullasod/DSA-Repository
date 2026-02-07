@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anshullasod/DSA-Repository/tree/master/0046-permutations) |
 | [0485-max-consecutive-ones](https://github.com/Anshullasod/DSA-Repository/tree/master/0485-max-consecutive-ones) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
