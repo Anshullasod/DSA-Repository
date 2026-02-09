@@ -1,6 +1,7 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode Stats](https://leetcode-stats-github-cloud.vercel.app/?username=U5OqMLX0nt&theme=dark)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
