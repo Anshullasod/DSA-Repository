@@ -43,5 +43,5 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ---
 
 ## 📬 Contact Me
-- **LinkedIn:** [Anshul Jain](https://www.linkedin.com/in/anshul-jain-/)
+- **LinkedIn:** [Anshul Jain](https://www.linkedin.com/in/anshullasod/)
 - **LeetCode:** [Anshullasod](https://leetcode.com/Anshullasod/)
