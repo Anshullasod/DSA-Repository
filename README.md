@@ -25,7 +25,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | :--- | :---: | :--- |
 | 🔢 **Arrays** | ✅ Done | [Browse](./ARRAYS/) |
 | 🔗 **Linked List** | ✅ Done | [Browse](./LinkedList/) |
-| 🌳 **Binary Tree** | ⏳ In Progress | [Browse](./Binary%20Tree/) |
+| 🌳 **Binary Tree** | ✅ Done | [Browse](./Binary%20Tree/) |
 | 🔍 **Binary Search Tree** | ✅ Done | [Browse](./Binary%20Search%20Tree/) |
 | 🏗️ **Recursion & Backtracking** | ✅ Done | [Browse](./Recursion%26Backtracking/) |
 | 📊 **Sorting** | ✅ Done | [Browse](./Sorting/) |
