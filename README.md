@@ -6,129 +6,50 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Anshullasod?theme=dark)](https://leetcode.com/Anshullasod/)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/Anshullasod/DSA-Repository/tree/master/0102-binary-tree-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0113-path-sum-ii) |
-| [0199-binary-tree-right-side-view](https://github.com/Anshullasod/DSA-Repository/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
-| [0938-range-sum-of-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0938-range-sum-of-bst) |
-| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0113-path-sum-ii) |
-| [0199-binary-tree-right-side-view](https://github.com/Anshullasod/DSA-Repository/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
-| [0938-range-sum-of-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0938-range-sum-of-bst) |
-| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/Anshullasod/DSA-Repository/tree/master/0102-binary-tree-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0113-path-sum-ii) |
-| [0199-binary-tree-right-side-view](https://github.com/Anshullasod/DSA-Repository/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0226-invert-binary-tree) |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0543-diameter-of-binary-tree) |
-| [0938-range-sum-of-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0938-range-sum-of-bst) |
-| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0102-binary-tree-level-order-traversal](https://github.com/Anshullasod/DSA-Repository/tree/master/0102-binary-tree-level-order-traversal) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0112-path-sum) |
-| [0199-binary-tree-right-side-view](https://github.com/Anshullasod/DSA-Repository/tree/master/0199-binary-tree-right-side-view) |
-| [0226-invert-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0226-invert-binary-tree) |
-## Math
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
-| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
-## Recursion
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0509-fibonacci-number) |
-## Backtracking
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0039-combination-sum) |
-| [0046-permutations](https://github.com/Anshullasod/DSA-Repository/tree/master/0046-permutations) |
-| [0077-combinations](https://github.com/Anshullasod/DSA-Repository/tree/master/0077-combinations) |
-| [0113-path-sum-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0113-path-sum-ii) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
-| [0039-combination-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0039-combination-sum) |
-| [0046-permutations](https://github.com/Anshullasod/DSA-Repository/tree/master/0046-permutations) |
-| [0136-single-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0136-single-number) |
-| [0485-max-consecutive-ones](https://github.com/Anshullasod/DSA-Repository/tree/master/0485-max-consecutive-ones) |
-| [1929-concatenation-of-array](https://github.com/Anshullasod/DSA-Repository/tree/master/1929-concatenation-of-array) |
-## Simulation
-|  |
-| ------- |
-| [1929-concatenation-of-array](https://github.com/Anshullasod/DSA-Repository/tree/master/1929-concatenation-of-array) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0230-kth-smallest-element-in-a-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0230-kth-smallest-element-in-a-bst) |
-| [0938-range-sum-of-bst](https://github.com/Anshullasod/DSA-Repository/tree/master/0938-range-sum-of-bst) |
-| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/1373-maximum-sum-bst-in-binary-tree) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/Anshullasod/DSA-Repository/tree/master/0136-single-number) |
-## Two Pointers
-|  |
-| ------- |
-| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
-## Design
-|  |
-| ------- |
-| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
-## Sorting
-|  |
-| ------- |
-| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
-## Data Stream
-|  |
-| ------- |
-| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
-<!---LeetCode Topics End-->
+# 🚀 DSA Journey | Anshul Jain
+### B.Tech CSE Student @ CTAE Udaipur
+
+Welcome to my repository dedicated to mastering Data Structures and Algorithms! This repo tracks my daily practice and problem-solving journey on LeetCode using **C++**.
+
+---
+
+## 📊 LeetCode Statistics
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anshullasod?theme=dark&font=Recursive&ext=activity)
+
+---
+
+## 🛠️ Tech Stack & Skills
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FFCA28?style=for-the-badge&logo=bookstack&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Topic-wise Progress
+Yahan mere saare solved questions topic ke hisaab se organized hain. Main **LeetHub** ka use karta hoon sync ke liye aur phir unhe in folders mein manually categorize karta hoon.
+
+| Topic | Status | Links |
+| :--- | :---: | :--- |
+| 🔢 **Arrays** | ✅ Done | [Browse](./ARRAYS/) |
+| 🔗 **Linked List** | ✅ Done | [Browse](./LinkedList/) |
+| 🌳 **Binary Tree** | ⏳ In Progress | [Browse](./Binary%20Tree/) |
+| 🔍 **Binary Search Tree** | ✅ Done | [Browse](./Binary%20Search%20Tree/) |
+| 🏗️ **Recursion & Backtracking** | ✅ Done | [Browse](./Recursion%26Backtracking/) |
+| 📊 **Sorting** | ✅ Done | [Browse](./Sorting/) |
+| 🥞 **Heaps** | ✅ Done | [Browse](./Heaps/) |
+| 💡 **Greedy Algorithms** | ✅ Done | [Browse](./Greedy%20Algorithms/) |
+| 🔑 **Hashing** | ✅ Done | [Browse](./Hashing/) |
+
+---
+
+## ⚙️ How I Manage This Repo
+1.  **Sync:** [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-v2) automatically pushes my LeetCode solutions to the root folder.
+2.  **Organization:** Every week, I manually move the problems into their respective topic folders to keep the repository clean and navigable.
+3.  **Target:** Aiming to complete the DSA syllabus by **February 2026** to prepare for upcoming internships.
+
+---
+
+## 📬 Contact Me
+- **LinkedIn:** [Anshul Jain](https://www.linkedin.com/in/anshul-jain-/)
+- **LeetCode:** [Anshullasod](https://leetcode.com/Anshullasod/)
