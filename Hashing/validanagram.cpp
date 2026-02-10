@@ -4,7 +4,7 @@
 using namespace std;
 bool checkanagram(string s,string s2)
 {
-  unordered_map<int,char> m;
+  unordered_map<char,int> m;
   if(s.size()!=s2.size())
   {
     cout<<"NOT anagram"<<endl;
@@ -28,7 +28,7 @@ bool checkanagram(string s,string s2)
 }
 int main()
 {
-  string s="RACE",s2="ACER";
+  string s="RACET",s2="ACER";
   checkanagram(s,s2);
 
 }
