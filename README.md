@@ -2,8 +2,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Anshullasod?theme=dark)](https://leetcode.com/Anshullasod/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshullasod/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anshullasod?theme=dark)](https://leetcode.com/Anshullasod/)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
