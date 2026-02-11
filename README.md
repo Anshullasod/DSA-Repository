@@ -45,3 +45,27 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## 📬 Contact Me
 - **LinkedIn:** [Anshul Jain](https://www.linkedin.com/in/anshullasod/)
 - **LeetCode:** [Anshullasod](https://leetcode.com/Anshullasod/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+<!---LeetCode Topics End-->
