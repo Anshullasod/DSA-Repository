@@ -51,6 +51,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -68,4 +69,12 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
