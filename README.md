@@ -53,11 +53,13 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | ------- |
 | [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -70,6 +72,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
