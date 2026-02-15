@@ -55,6 +55,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -89,4 +92,24 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
