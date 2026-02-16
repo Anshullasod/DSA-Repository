@@ -65,6 +65,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0001-two-sum](https://github.com/Anshullasod/DSA-Repository/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshullasod/DSA-Repository/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anshullasod/DSA-Repository/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
@@ -124,4 +125,8 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Anshullasod/DSA-Repository/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
