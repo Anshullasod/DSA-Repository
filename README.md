@@ -60,6 +60,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -103,10 +105,12 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -119,6 +123,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -135,6 +140,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -143,4 +149,8 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
