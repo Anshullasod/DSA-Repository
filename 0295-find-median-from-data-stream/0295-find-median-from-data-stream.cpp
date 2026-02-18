@@ -7,13 +7,14 @@ public:
     }
   void addNum(int num)
   {
-    pq2.push(num);
-    while(pq2.size()>pq1.size())
+    pq1.push(num);
+    pq2.push(pq1.top());
+    pq1.pop();
+    if(pq1.size()<pq2.size())
     {
-      pq1.push(pq2.top());
-      pq2.pop();
+        pq1.push(pq2.top());
+        pq2.pop();
     }
-    cout<<"Added"<<endl;
     return;
   }
   double findMedian()
