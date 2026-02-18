@@ -77,6 +77,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
@@ -115,6 +117,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -152,6 +155,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -165,4 +169,8 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
