@@ -106,12 +106,14 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
@@ -140,6 +142,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anshullasod/DSA-Repository/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
@@ -158,4 +161,8 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
