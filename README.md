@@ -55,6 +55,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshullasod/DSA-Repository/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +71,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Anshullasod/DSA-Repository/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Anshullasod/DSA-Repository/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +92,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Anshullasod/DSA-Repository/tree/master/0295-find-median-from-data-stream) |
@@ -116,6 +119,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
@@ -138,6 +142,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshullasod/DSA-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0767-reorganize-string) |
