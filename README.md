@@ -48,3 +48,19 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms! 
 * 📁 **Heaps / Linked List:** Advanced data structures.
 * 📁 **Recursion & Backtracking:** Algorithmic problem-solving.
 *(All solutions are implemented in C++ with optimized time & space complexity)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+<!---LeetCode Topics End-->
