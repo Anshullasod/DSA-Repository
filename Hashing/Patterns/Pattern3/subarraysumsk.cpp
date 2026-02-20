@@ -15,14 +15,7 @@ int countsubarray(vector<int> nums,int k)
        {
          ans+=m[sum-k];
        }
-       if(m.count(sum))
-       {
         m[sum]++;
-       }
-       else
-       {
-        m[sum]=1;
-       }
     } 
     cout<<ans<<endl;
     return ans;
