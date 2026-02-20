@@ -24,7 +24,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms! 
 ---
 
 ### 📈 LeetCode Statistics
-![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=anshullasod&theme=dark&show_icons=true)
+![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=Anshullasod&theme=dark&show_icons=true)
 
 ---
 
