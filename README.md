@@ -1,17 +1,12 @@
-
-### 🚀 Total Problems Solved (LeetCode + Local): **124**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **123**
 # 🚀 DSA Journey | Anshul Jain
 ### B.Tech CSE Student @ CTAE Udaipur
-
+### 🚀 Total Problems Solved (LeetCode + Local): **124**
 Welcome to my repository dedicated to mastering Data Structures and Algorithms! This repo tracks my daily practice and problem-solving journey on LeetCode using **C++**.
 
 ---
 
 ## 📊 LeetCode Statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anshullasod?theme=dark&font=Recursive&ext=activity)
-### 🚀 Total Problems Solved (LeetCode + Local): **Counting...**
 ---
 
 ## 🛠️ Tech Stack & Skills
