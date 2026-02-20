@@ -7,7 +7,7 @@
 ---
 
 ### 📊 LeetCode Statistics
-![LeetCode Stats](https://leetcocard.jacoblin.cool/Anshullasod?theme=dark&font=Recursive&ext=activity)
+![LeetCode Stats](https://leetcocard.jacoblin.cool/anshullasod?theme=dark&font=Recursive&ext=activity)
 
 ---
 
