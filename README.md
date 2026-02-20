@@ -76,6 +76,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshullasod/DSA-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0767-reorganize-string) |
@@ -113,6 +114,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anshullasod/DSA-Repository/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshullasod/DSA-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
@@ -144,6 +146,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | ------- |
 | [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anshullasod/DSA-Repository/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0767-reorganize-string) |
 ## Quickselect
@@ -196,4 +199,8 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | ------- |
 | [0767-reorganize-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0767-reorganize-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/Anshullasod/DSA-Repository/tree/master/1642-furthest-building-you-can-reach) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
