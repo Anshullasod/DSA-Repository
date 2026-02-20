@@ -1,4 +1,6 @@
 
+### 🚀 Total Problems Solved (LeetCode + Local): **125**
+
 ### 🚀 Total Problems Solved (LeetCode + Local): **124**
 # 🚀 DSA Journey | Anshul Jain
 ### B.Tech CSE Student @ CTAE Udaipur
