@@ -59,6 +59,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anshullasod/DSA-Repository/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Anshullasod/DSA-Repository/tree/master/0380-insert-delete-getrandom-o1) |
@@ -89,6 +90,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Anshullasod/DSA-Repository/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anshullasod/DSA-Repository/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -124,6 +127,7 @@ Yahan mere saare solved questions topic ke hisaab se organized hain. Main **Leet
 | [0023-merge-k-sorted-lists](https://github.com/Anshullasod/DSA-Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Anshullasod/DSA-Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anshullasod/DSA-Repository/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anshullasod/DSA-Repository/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anshullasod/DSA-Repository/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
