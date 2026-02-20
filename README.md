@@ -20,7 +20,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms! 
 ---
 
 ### 📈 LeetCode Statistics
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=anshullasod&theme=dark)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?anshullasod&theme=dark)
 
 ---
 
