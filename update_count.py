@@ -33,4 +33,4 @@ def update_readme(count):
 if __name__ == "__main__":
     count = count_cpp_files()
     update_readme(count)
-    print(f"Total files counted: {count}")
+    
