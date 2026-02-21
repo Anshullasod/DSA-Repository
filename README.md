@@ -1,15 +1,3 @@
-
-### 🚀 Total Problems Solved (LeetCode + Local): **127**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **126**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **127**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **126**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **125**
-
-### 🚀 Total Problems Solved (LeetCode + Local): **125**
 # 🚀 DSA Mastery Journey | Anshul Lasod
 ### 🎓 B.Tech Computer Science Engineering Student @ CTAE Udaipur
 
@@ -18,7 +6,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms! 
 ---
 
 ### 📊 Consolidated Progress
-### 🎯 Total Problems Solved (LeetCode + Local): **125**
+### 🚀 Total Problems Solved (LeetCode + Local): **125**
 ---
 
 ### 👤 Connect with Me
