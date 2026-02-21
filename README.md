@@ -1,4 +1,6 @@
 
+### 🚀 Total Problems Solved (LeetCode + Local): **127**
+
 ### 🚀 Total Problems Solved (LeetCode + Local): **126**
 
 ### 🚀 Total Problems Solved (LeetCode + Local): **127**
