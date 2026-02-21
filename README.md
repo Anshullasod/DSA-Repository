@@ -1,5 +1,3 @@
-
-### 🚀 Total Problems Solved (LeetCode + Local): **127**
 # 🚀 DSA Mastery Journey | Anshul Lasod
 ### 🎓 B.Tech Computer Science Engineering Student @ CTAE Udaipur
 
