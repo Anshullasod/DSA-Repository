@@ -16,8 +16,9 @@ def update_readme(count):
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
 
-    start_marker = ""
-    end_marker = ""
+   # Script ke andar ye likho
+start_marker = ""
+end_marker = ""
     
     start_idx = content.find(start_marker) + len(start_marker)
     end_idx = content.find(end_marker)
