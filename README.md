@@ -58,4 +58,12 @@ Thanks
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
