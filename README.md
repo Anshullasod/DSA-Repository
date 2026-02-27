@@ -31,7 +31,7 @@ Welcome to my repository dedicated to mastering Data Structures and Algorithms! 
 ---
 
 ### 🌟 More About Me
-* 🛡️ **NSS Volunteer:** Proud member contributing to social service.
+* 🛡️ **NSS Volunteer:** Proud member contributing to social service and services
 * 💻 **Current Focus:** Deep diving into Advanced DSA (Heaps, Tries, Graphs).
 * 🚀 **Future Goals:** Aspiring App Developer (Exploring Flutter soon!).
 
