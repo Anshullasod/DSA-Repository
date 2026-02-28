@@ -1,7 +1,7 @@
 # 🚀 DSA Mastery Journey | Anshul Lasod
 ### 🎓 B.Tech Computer Science Engineering Student @ CTAE Udaipur
 
-Welcome to my repository dedicated to mastering Data Structures and Algorithms! This collection documents my progress through the **Sigma Course** and my competitive programming journey on **LeetCode**.
+Welcome to my repository dedicated to mastering Data Structures and Algorithms! This collection documents my progress through the **Sigma Course** and my competitive programming journey on the **LeetCode**.
 
 ---
 
