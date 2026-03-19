@@ -54,6 +54,7 @@ Thanks and like
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -63,8 +64,17 @@ Thanks and like
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
