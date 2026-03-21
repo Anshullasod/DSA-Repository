@@ -48,47 +48,58 @@ Thanks and like
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
