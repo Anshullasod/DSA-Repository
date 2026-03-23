@@ -54,6 +54,8 @@ Thanks and like
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anshullasod/DSA-Repository/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +104,10 @@ Thanks and like
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anshullasod/DSA-Repository/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Two Pointers
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
