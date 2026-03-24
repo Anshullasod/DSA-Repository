@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/C++/Coding2.0",
-      "program": "c:/Users/hp/Desktop/C++/Coding2.0/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/C++/Coding2.0/Graphs",
+      "program": "c:/Users/hp/Desktop/C++/Coding2.0/Graphs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
