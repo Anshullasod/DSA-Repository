@@ -119,4 +119,20 @@ Thanks and like
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Anshullasod/DSA-Repository/tree/master/0605-can-place-flowers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
