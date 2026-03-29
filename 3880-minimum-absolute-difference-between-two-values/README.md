@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-absolute-difference-between-two-values">3880. Minimum Absolute Difference Between Two Values</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting only of 0, 1, and 2.</p>
+<h2><a href="https://leetcode.com/problems/minimum-absolute-difference-between-two-values">4255. Minimum Absolute Difference Between Two Values</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> consisting only of 0, 1, and 2.</p>
 
 <p>A pair of indices <code>(i, j)</code> is called <strong>valid</strong> if <code>nums[i] == 1</code> and <code>nums[j] == 2</code>.</p>
 
