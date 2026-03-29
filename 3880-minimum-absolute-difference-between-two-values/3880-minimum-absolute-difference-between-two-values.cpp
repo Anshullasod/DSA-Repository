@@ -16,6 +16,10 @@ public:
             if(nums[i]==2)
             {
                 two=i;
+                if(one!=-1)
+                {
+                    mini=min(mini,abs(two-one));
+                }
             }
             
         }
