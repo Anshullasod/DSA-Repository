@@ -128,18 +128,21 @@ Thanks and like
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anshullasod/DSA-Repository/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Anshullasod/DSA-Repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anshullasod/DSA-Repository/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Anshullasod/DSA-Repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anshullasod/DSA-Repository/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Anshullasod/DSA-Repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anshullasod/DSA-Repository/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -147,5 +150,6 @@ Thanks and like
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Anshullasod/DSA-Repository/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Anshullasod/DSA-Repository/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Anshullasod/DSA-Repository/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 <!---LeetCode Topics End-->
