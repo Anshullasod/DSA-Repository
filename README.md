@@ -70,6 +70,7 @@ Thanks and like
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0345-reverse-vowels-of-a-string) |
@@ -113,6 +114,7 @@ Thanks and like
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anshullasod/DSA-Repository/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Anshullasod/DSA-Repository/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
