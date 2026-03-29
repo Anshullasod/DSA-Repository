@@ -44,8 +44,8 @@ Thanks and like
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Anshullasod/DSA-Repository/tree/master/0605-can-place-flowers) |
@@ -55,18 +55,18 @@ Thanks and like
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anshullasod/DSA-Repository/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anshullasod/DSA-Repository/tree/master/0560-subarray-sum-equals-k) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
@@ -74,69 +74,69 @@ Thanks and like
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anshullasod/DSA-Repository/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anshullasod/DSA-Repository/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1051-height-checker](https://github.com/Anshullasod/DSA-Repository/tree/master/1051-height-checker) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anshullasod/DSA-Repository/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/Anshullasod/DSA-Repository/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anshullasod/DSA-Repository/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Anshullasod/DSA-Repository/tree/master/0605-can-place-flowers) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0207-course-schedule](https://github.com/Anshullasod/DSA-Repository/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshullasod/DSA-Repository/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
