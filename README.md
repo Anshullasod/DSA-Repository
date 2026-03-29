@@ -72,6 +72,7 @@ Thanks and like
 | [0020-valid-parentheses](https://github.com/Anshullasod/DSA-Repository/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Anshullasod/DSA-Repository/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Anshullasod/DSA-Repository/tree/main/0212-word-search-ii/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshullasod/DSA-Repository/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/Anshullasod/DSA-Repository/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anshullasod/DSA-Repository/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Anshullasod/DSA-Repository/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -112,6 +113,7 @@ Thanks and like
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshullasod/DSA-Repository/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Anshullasod/DSA-Repository/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Anshullasod/DSA-Repository/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
